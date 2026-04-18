@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16a75a1-c890-44b4-b65e-6bd28ea190b9" name="Changes" comment="" />
+    <list default="true" id="e16a75a1-c890-44b4-b65e-6bd28ea190b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYMProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/BookingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/ExerciseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/FLCBookingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Timetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/FLCBookingSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/LessonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/ReportGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/TimetableTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -21,10 +59,112 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/tejaswinireddy/Desktop/MyProjects/GYMProject/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test.java.com.flc.booking" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LessonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GYMProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.flc.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.flc.booking" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.flc.booking.LessonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GYMProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.flc.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.flc.booking" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.flc.booking.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GYMProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.flc.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.flc.booking" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.flc.booking.ReportGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportGeneratorTest.shouldGenerateMonthlyLessonReportWithLessonDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GYMProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.flc.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.flc.booking" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.flc.booking.ReportGeneratorTest" />
+      <option name="METHOD_NAME" value="shouldGenerateMonthlyLessonReportWithLessonDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimetableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GYMProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.com.flc.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.com.flc.booking" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.flc.booking.TimetableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.LessonTest" />
+        <item itemvalue="JUnit.TimetableTest" />
+        <item itemvalue="JUnit.ReportGeneratorTest" />
+        <item itemvalue="JUnit.ReportGeneratorTest.shouldGenerateMonthlyLessonReportWithLessonDetails" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

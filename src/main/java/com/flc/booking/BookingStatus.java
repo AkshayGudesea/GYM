@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.flc.booking;
 
 public enum BookingStatus {
     BOOKED,

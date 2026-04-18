@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.flc.booking;
 
 import main.java.com.flc.booking.Member;
 import main.java.com.flc.booking.Lesson;

@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.flc.booking;
 
 import java.util.ArrayList;
 import java.util.List;

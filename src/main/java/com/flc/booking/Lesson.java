@@ -1,4 +1,5 @@
-package main.java;
+package main.java.com.flc.booking;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -49,18 +50,6 @@ public class Lesson {
 
     public int getMonth() {
         return month;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public int getCapacity() {
-        return capacity;
-    }
-
-    public List<Booking> getBookings() {
-        return bookings;
     }
 
     public boolean isFull() {

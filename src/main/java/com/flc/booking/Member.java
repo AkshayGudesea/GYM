@@ -1,4 +1,4 @@
-package main.java;
+package main.java.com.flc.booking;
 
 public class Member {
     private final String memberId;
