@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16a75a1-c890-44b4-b65e-6bd28ea190b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GYMProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/BookingStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/ExerciseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/FLCBookingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flc/booking/Timetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/FLCBookingSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/LessonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/ReportGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/TimetableTest.java" afterDir="false" />
+    <list default="true" id="e16a75a1-c890-44b4-b65e-6bd28ea190b9" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/flc/booking/FLCBookingSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/FLCBookingSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/flc/booking/LessonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/LessonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/flc/booking/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/flc/booking/ReportGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/ReportGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/flc/booking/TimetableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/flc/booking/TimetableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +48,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/tejaswinireddy/Desktop/MyProjects/GYMProject/src/main/java"
+    "last_opened_file_path": "/Users/tejaswinireddy/Desktop/MyProjects/GYMProject/src/main/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -174,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1776534775002</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1776538178482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776538178482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

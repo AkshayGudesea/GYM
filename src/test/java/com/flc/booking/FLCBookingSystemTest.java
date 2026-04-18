@@ -1,4 +1,4 @@
-package test.java.com.flc;
+package test.java.com.flc.booking;
 
 import main.java.com.flc.booking.*;
 import org.junit.Test;
